@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-Hello Masai
-Week 1 User 1
-=======
-This file is for session to week 2 day 1 codeing session. 
-:qs
-:qa
-:qa
->>>>>>> eeeed5cf746c668ebc29a92c87046282b5028154
+HELLO MASAI 
+WEEK 1 User 1
