@@ -1,0 +1,4 @@
+This file is for session to week 2 day 1 codeing session. 
+:qs
+:qa
+:qa
